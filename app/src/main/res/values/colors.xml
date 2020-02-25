@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#c56000</color>
+
+    <color name="lightGray">#F0FFF0</color>
+    <color name="mediumGray">#AAAAAA</color>
+    <color name="lightPurple">#c092ce</color>
+    <color name="translucidBlack">#BE000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cardLightPurple">#9140a9</color>
+
+    <color name="primaryColor">#ff8f00</color>
+    <color name="primaryLightColor">#ff833a</color>
+    <color name="primaryDarkColor">#c56000</color>
+    <color name="primaryTextColor">#f5f5f5</color>
+
+    <color name="colorButton">#c43c00</color>
+    <color name="colorTextButton">#a30000</color>
+
+    <color name="card_result">#8fc8f7</color>
+
+    <color name="primaryCardLightColor">#82e9de</color>
+    <color name="primaryCardColor">#80cbc4</color>
+    <color name="primaryCardDarkColor">#4f9a94</color>
+</resources>
